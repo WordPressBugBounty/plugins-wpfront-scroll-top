@@ -3,7 +3,7 @@ Contributors: syammohanm
 Donate link: http://wpfront.com/donate/
 Tags: scroll to top, back to top, scroll top, scroll up, smooth scroll
 Requires at least: 5.3
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires PHP: 7.2
 Stable tag: 3.0.1
 License: GPLv3
